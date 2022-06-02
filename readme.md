@@ -1,9 +1,9 @@
-##What's that project?
-This is simple website deisgned to find new leaked songs from picosong easily.
+## What's that project?
+### This is simple website deisgned to find new leaked songs from picosong easily.
 
-##Currently hosted on: http://picosong.antonizalupka.cf
+## Currently hosted on: http://picosong.antonizalupka.cf
 
-Instruction to run this project locally: 0. Project developed on: node@16.13.1; npm@8.3.0
+## Instruction to run this project locally: 0. Project developed on: node@16.13.1; npm@8.3.0
 
 1. Configure backend port in backend/config.js. Default backend port is 5000. Frontend port you can change by changing package.json file. Default port is 3004.
 2. Configure CORS policy in backend/corsOptions.js and write correct backend URL in frontend/next.config.js
